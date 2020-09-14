@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lSrVUNZsRZsXBw3dy1Jvkr3+TqTycU4oSrTAewbDhaVlwMpYGjDKVYhC0GUcftOy6E/C0wA21OblvGhCt35fQ==",
+  "success": true,
+  "projectFilePath": "/Users/sutharsanurudrasingam/Documents/AZ-400/DevOpsExpert/SharedLib/ConsumePackage/ConsumePackage.csproj",
+  "expectedPackageFiles": [
+    "/Users/sutharsanurudrasingam/.nuget/packages/sharedapi/1.0.0/sharedapi.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
